@@ -1,0 +1,44 @@
+{
+  "HTML": {
+    "href": "https://id.wikipedia.org/wiki/HTML",
+    "className": "HTML__badge",
+    "text": "HTML"
+  },
+  "CSS": {
+    "href": "https://id.wikipedia.org/wiki/CSS",
+    "className": "CSS__badge",
+    "text": "CSS"
+  },
+  "JAVASCRIPT": {
+    "href": "https://javascriptbook.com/",
+    "className": "JAVASCRIPT__badge",
+    "text": "JAVASCRIPT"
+  },
+
+  "BOOTSTRAP": {
+    "href": "https://getbootstrap.com/",
+    "className": "BOOTSTRAP__badge",
+    "text": "BOOTSTRAP"
+  },
+
+  "REACT": {
+    "href": "https://react.dev/",
+    "className": "REACT__badge",
+    "text": "REACT JS"
+  },
+  "FIREBASE": {
+    "href": "https://firebase.google.com/",
+    "className": "FIREBASE__badge",
+    "text": "FIREBASE"
+  },
+  "TAILWIND CSS": {
+    "href": "https://tailwindcss.com/",
+    "className": "TAILWIND__badge",
+    "text": "TAILWIND CSS"
+  },
+  "VITE": {
+    "href": "https://vitejs.dev/",
+    "className": "VITE__badge",
+    "text": "VITE"
+  }
+}

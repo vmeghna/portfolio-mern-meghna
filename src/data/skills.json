@@ -1,0 +1,75 @@
+{
+  "Frontend": [
+    {
+      "title": "HTML",
+      "imageSrc": "img/skills/HTML.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "img/skills/CSS.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "img/skills/Javascript.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "img/skills/Bootstrap.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "img/skills/Tailwind.png"
+    },
+    {
+      "title": "React JS",
+      "imageSrc": "img/skills/React.png"
+    },
+    {
+      "title": "SCSS",
+      "imageSrc": "img/skills/scss.png"
+    },
+    {
+      "title": "Styled-components",
+      "imageSrc": "img/skills/styled-components.png"
+    },
+    {
+      "title": "Vite",
+      "imageSrc": "img/skills/vite.png"
+    },
+    {
+      "title": "Redux",
+      "imageSrc": "img/skills/redux.png"
+    }
+  ],
+
+  "Backend": [
+    {
+      "title": "Firebase",
+      "imageSrc": "img/skills/Firebase.png"
+    },
+    {
+      "title": "Node JS",
+      "imageSrc": "img/skills/NodeJS.png"
+    },
+    {
+      "title": "Express JS",
+      "imageSrc": "img/skills/ExpressJS.png"
+    }
+  ],
+
+  "Others": [
+    {
+      "title": "Github",
+      "imageSrc": "img/skills/Github.png"
+    },
+
+    {
+      "title": "Netlify",
+      "imageSrc": "img/skills/Netlify.png"
+    },
+    {
+      "title": "Vercel",
+      "imageSrc": "img/skills/Vercel.png"
+    }
+  ]
+}

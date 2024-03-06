@@ -1,0 +1,109 @@
+[
+  {
+    "Image": "/img/projects/movie.PNG",
+    "Type": "App",
+    "Title": "Movie Recommendation App",
+    "Description": "A website that displays a list of Movies and plays the trailer of the movies and series. build using react vite and  various frameworks",
+    "LinkSourceCode": "https://github.com/vmeghna/movie-marvelView-react-frontend",
+    "LinkDemoApp": "https://voluble-peony-2fff88.netlify.app",
+    "Badges": ["HTML", "CSS", "REACT"]
+  },
+  {
+    "Image": "/img/projects/epiceatery.PNG",
+    "Type": "App",
+    "Title": "Recipe Recommendation App",
+    "Description": "It is a recipe app where you can add foods to favourite , view the ingredients list and with user authentication",
+    "LinkSourceCode": "https://github.com/vmeghna/epiceatery-recipe-app-react",
+    "LinkDemoApp": "https://shiny-arithmetic-3074c7.netlify.app/",
+    "Badges": ["HTML", "CSS", "REACT"]
+  },
+  {
+    "Image": "/img/projects/blog.PNG",
+    "Type": "App",
+    "Title": "Blog App",
+    "Description": "Blog app with user authentication , you can create blog , post and delete it",
+    "LinkSourceCode": "https://github.com/vmeghna/blog-app-react-frontend",
+    "LinkDemoApp": "https://cheery-valkyrie-3c5d9a.netlify.app",
+    "Badges": ["HTML", "CSS", "REACT", "JAVASCRIPT"]
+  },
+  {
+    "Image": "/img/projects/tribute.PNG",
+    "Type": "Website",
+    "Title": "Tribute page",
+    "Description": "This a tribute page for Captain America and a treat to All Marvel fans out there.",
+    "LinkSourceCode": "https://vmeghna.github.io/tribute-page/",
+
+    "LinkDemoApp": "https://vmeghna.github.io/tribute-page/",
+    "Badges": ["HTML", "CSS"]
+  },
+  {
+    "Image": "/img/projects/weather.PNG",
+    "Type": "App",
+    "Title": "Weather App",
+    "Description": "App which generates the climate and temperature of various countries,",
+    "LinkSourceCode": "https://github.com/vmeghna/weather-app-react",
+    "LinkDemoApp": "https://steady-cupcake-d8c919.netlify.app/",
+
+    "Badges": ["HTML", "CSS", "JAVASCRIPT", "REACT"]
+  },
+  {
+    "Image": "/img/projects/pomo.PNG",
+    "Type": "Website",
+    "Title": "Pomodoro Timer",
+    "Description": "It is just a pomodoro timer to showcase the js skills",
+    "LinkSourceCode": "https://github.com/vmeghna/pomodoro-timer",
+    "LinkDemoApp": "https://vmeghna.github.io/pomodoro-timer/",
+
+    "Badges": ["HTML", "CSS", "JAVASCRIPT", "REACT"]
+  },
+  {
+    "Image": "/img/projects/task.PNG",
+    "Type": "Website",
+    "Title": "Task Reminder-Marvel",
+    "Description": "Task reminder to Marvel heros and  my contribution to marvel fans",
+    "LinkSourceCode": "https://github.com/vmeghna/task-reminder-react",
+    "LinkDemoApp": "https://jocular-medovik-c90152.netlify.app/",
+
+    "Badges": ["HTML", "REACT", "CSS", "JAVASCRIPT"]
+  },
+  {
+    "Image": "/img/projects/proo.PNG",
+    "Type": "Website",
+    "Title": "Profile Card",
+    "Description": "profile card which holds the basic details",
+    "LinkSourceCode": "https://github.com/vmeghna/profile-card",
+    "LinkDemoApp": "https://vmeghna.github.io/profile-card/",
+
+    "Badges": ["HTML", "CSS"]
+  },
+  {
+    "Image": "/img/projects/digi.PNG",
+    "Type": "Website",
+    "Title": "Digital clock",
+    "Description": "Clock to showcase my basic js skills",
+    "LinkSourceCode": "https://github.com/vmeghna/digital-clock",
+    "LinkDemoApp": "https://vmeghna.github.io/digital-clock/",
+
+    "Badges": ["HTML", "CSS", "JAVASCRIPT"]
+  },
+  {
+    "Image": "/img/projects/todo.PNG",
+    "Type": "Website",
+    "Title": "To-Do-list",
+    "Description": "CRUD functionality plays a main role here",
+    "LinkSourceCode": "https://github.com/vmeghna/to-do-list-group",
+    "LinkDemoApp": "https://vmeghna.github.io/to-do-list-group/",
+
+    "Badges": ["HTML", "CSS", "JAVASCRIPT"]
+  },
+  {
+    "Image": "/img/projects/tic.PNG",
+    "Type": "Game",
+    "Title": "Tic-tac-Toe",
+    "Description": "Gaming where player and computer pays a mutual game",
+    "LinkSourceCode": "https://github.com/vmeghna/Tic-Tac-Toe-Game-React",
+    "LinkDemoApp": "https://coruscating-moxie-b09014.netlify.app/",
+
+    "Badges": ["HTML", "CSS", "JAVASCRIPT", "REACT"]
+  }
+]
